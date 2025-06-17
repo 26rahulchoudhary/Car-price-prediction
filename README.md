@@ -59,5 +59,3 @@ This project explores and predicts car prices based on various attributes using 
 📍 Mumbai, Maharashtra, India
 
 ---
-
-Let me know if you'd like to include a **Usage Example**, **Model Improvement Ideas**, or GitHub badges!
